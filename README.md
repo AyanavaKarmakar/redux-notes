@@ -62,10 +62,10 @@ const reducer = (state, action) => {
 
 ## <b><mark>Redux Store</mark></b>
 
-One store for the entire application.
+One store for the entire application. 
 <br>
-<u><h3>Responsibilities</h3></u>
-
+<u><b>Responsibilities: </b></u>
+<br>
 1. Holds application state
 2. Allows access to state via getState()
 3. Allows state to be updated via dispatch(action)
