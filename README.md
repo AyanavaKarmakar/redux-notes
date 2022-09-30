@@ -1,5 +1,7 @@
 # <mark><b>Redux Notes</b></mark>
 
+### Note: The following [documentation](https://ayanavakarmakar.github.io/redux-notes/) has been hosted via GitHub Pages!
+
 ## <mark><b>Three Core Concepts: </b></mark>
 
 ### Cake Shop Scenario | Redux | Purpose
